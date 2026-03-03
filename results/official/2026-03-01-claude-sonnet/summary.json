@@ -1,0 +1,27 @@
+{
+  "run_date": "2026-03-01",
+  "model": {
+    "name": "claude-sonnet-4-6",
+    "provider": "anthropic",
+    "cli": "claude-code"
+  },
+  "overall_score_pct": 0.84,
+  "total_scenarios": 1,
+  "by_category": {
+    "investigation": { "score_pct": 0.84, "count": 1 }
+  },
+  "by_difficulty": {
+    "medium": { "score_pct": 0.84, "count": 1 }
+  },
+  "scenarios": [
+    {
+      "id": "INV-001",
+      "name": "Post-Exploitation Attack Investigation",
+      "category": "investigation",
+      "difficulty": "medium",
+      "earned_points": 84,
+      "total_points": 100,
+      "score_pct": 0.84
+    }
+  ]
+}

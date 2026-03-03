@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "ASW-Bench: Agentic SecOps Workspace Benchmark"
+message: "If you use ASW-Bench in your research, please cite it using this metadata."
+type: software
+authors:
+  - name: refractionPOINT
+    website: https://www.refractionpoint.com
+repository-code: https://github.com/refractionPOINT/asw-bench
+url: https://limacharlie.io
+license: Apache-2.0
+date-released: "2026-02-28"
+keywords:
+  - benchmark
+  - cybersecurity
+  - security-operations
+  - ai-agents
+  - llm-evaluation
+  - soc
+  - limacharlie

@@ -1,0 +1,28 @@
+{
+  "run_date": "2026-03-02",
+  "model": {
+    "name": "gpt-5.3-codex",
+    "provider": "openai",
+    "cli": "codex",
+    "cli_version": "0.107.0"
+  },
+  "overall_score_pct": 0.61,
+  "total_scenarios": 1,
+  "by_category": {
+    "investigation": { "score_pct": 0.61, "count": 1 }
+  },
+  "by_difficulty": {
+    "medium": { "score_pct": 0.61, "count": 1 }
+  },
+  "scenarios": [
+    {
+      "id": "INV-001",
+      "name": "Post-Exploitation Attack Investigation",
+      "category": "investigation",
+      "difficulty": "medium",
+      "earned_points": 61,
+      "total_points": 100,
+      "score_pct": 0.61
+    }
+  ]
+}

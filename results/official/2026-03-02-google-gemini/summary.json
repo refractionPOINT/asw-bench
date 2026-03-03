@@ -1,0 +1,29 @@
+{
+  "run_date": "2026-03-02",
+  "model": {
+    "name": "gemini-3-flash-preview",
+    "provider": "google",
+    "cli": "gemini",
+    "cli_version": "0.31.0",
+    "note": "Default auto-gemini-3 mode resolves to gemini-3-flash-preview"
+  },
+  "overall_score_pct": 0.63,
+  "total_scenarios": 1,
+  "by_category": {
+    "investigation": { "score_pct": 0.63, "count": 1 }
+  },
+  "by_difficulty": {
+    "medium": { "score_pct": 0.63, "count": 1 }
+  },
+  "scenarios": [
+    {
+      "id": "INV-001",
+      "name": "Post-Exploitation Attack Investigation",
+      "category": "investigation",
+      "difficulty": "medium",
+      "earned_points": 63,
+      "total_points": 100,
+      "score_pct": 0.63
+    }
+  ]
+}
